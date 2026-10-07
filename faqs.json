@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What courses are offered in BTech?",
+    "answer": "We offer BTech specializations in Computer Science Engineering (CSE), Artificial Intelligence & Machine Learning (AIML), Data Science, and Information Technology."
+  },
+  {
+    "id": 2,
+    "question": "What is the hostel fee structure?",
+    "answer": "The annual hostel fee is $1,200 per year, which includes accommodation, mess meals, laundry, and 24/7 Wi-Fi facilities."
+  },
+  {
+    "id": 3,
+    "question": "How can I apply for a scholarship?",
+    "answer": "Scholarship applications are submitted online through the student portal during admission. Criteria are based on merit and entrance exam scores."
+  },
+  {
+    "id": 4,
+    "question": "What is the admission procedure?",
+    "answer": "Admission requires filling out the online registration form, qualifying through national/state entrance exams, and attending counseling sessions."
+  },
+  {
+    "id": 5,
+    "question": "What are the library timings?",
+    "answer": "The central library is open Monday through Saturday from 8:00 AM to 10:00 PM. During exam weeks, it remains open 24/7."
+  }
+]
